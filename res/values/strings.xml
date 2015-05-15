@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">slideswiper</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ari_license_key">eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJ1c2VyX3VzZXJuYW1lIjoicy15YW1hbW90byIsInVzZXJfZW1haWwiOiJzLXlhbWFtb3RvQGdtb2Nsb3VkLmNvbSIsIm9yZGVyX2RhdGUiOiIyMDE1LTA1LTA4IDIzOjQxOjA1Iiwib3JkZXJfaWQiOjE4NzIsIm9yZGVyX2xpbmUiOjAsImxpY2Vuc2UiOiJkZW1vIiwidmVyc2lvbiI6MywiZXhwIjoxNDMzNzIwNDY1fQ.dbHotkK6yPhN4UuAlN0Ta8GiWvlyWKWw756ljaihRnZBTmIbxhto-4m_geq9SyRnbPIJHzlRh2kJ9VEPrACXF6thtC_wLwK0-s5_X2uKGKjqi7bdiReBig32RgQTwmREbzv8muDa9mJsZN7elnx4gadj2w_HDPVEjIJE1M2bkRo</string>
+    
+
+</resources>
