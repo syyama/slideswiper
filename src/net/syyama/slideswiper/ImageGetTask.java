@@ -11,7 +11,8 @@ import android.os.AsyncTask;
 import android.widget.ImageView;
 
 /**
- * Image取得クラス
+ * Image取得クラス<br>
+ * http://kiwamunet.hateblo.jp/entry/2014/09/24/112005
  * 
  * @author s-yamamoto
  * 

@@ -5,5 +5,14 @@
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="libs/commons-codec-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="libs/JSlideShare-0.7.jar" sourcepath="libs/JSlideShare-0.7-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/slideswiper/libs/JSlideShare-0.7-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/log4j-1.2.14.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
