@@ -12,8 +12,8 @@ public class SlideGetTask extends AsyncTask<String, Void, ArrayList<String>> {
 	private final static String API_KEY = "RCyF3upv";
 	private final static String SHARED_SECRET = "adMbRXaG";
 
-	private final static String ID = "45573715";
-	private final static String URL = "http://www.slideshare.net/motch1cm/20150308-01";
+	private final static String ID = "48738292";
+	private final static String URL = "http://www.slideshare.net/motch1cm/otg-platform-ari";
 
 	private final static String IMG_URL_1 = "http://image.slidesharecdn.com/";
 	private final static String IMG_URL_2 = "/95/slide-";
